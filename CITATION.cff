@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript and check the repository for its final bibliographic details."
+title: "An Explainable Transfer Learning Approach for Balanced Classification of Martian Surface Imagery"
+authors:
+  - family-names: Hassan
+    given-names: Basma M.
+type: software

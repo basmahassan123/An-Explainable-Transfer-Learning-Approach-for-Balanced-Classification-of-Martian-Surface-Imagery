@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Local data (do not commit unless redistribution is authorized)
+data/*
+!data/README.md
+
+# Generated outputs and checkpoints
+results/
+Mars_VGG16_Revision/
+Figures/
+Tables/
+Reports/
+Models/
+GradCAM/
+Logs/
+*.keras
+*.h5
+*.weights.h5
+*.ckpt
+*.csv
+*.xlsx
+*.npz
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
